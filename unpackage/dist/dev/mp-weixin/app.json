@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "豆瓣评分",
+    "navigationBarBackgroundColor": "#41be57",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

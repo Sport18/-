@@ -1,0 +1,1 @@
+<view class="page"><navigator class="item-navigator"><view class="item-group"><view class="thumbnail-group"><image class="thumbnail" src="{{isMisic?item.image:item.images.small}}"></image></view><view class="item-title">{{item.title}}</view><star vue-id="1" rate="{{item.rating.average}}" bind:__l="__l"></star></view></navigator></view>

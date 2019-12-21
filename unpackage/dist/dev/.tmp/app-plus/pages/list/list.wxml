@@ -1,0 +1,1 @@
+<view><searchbar vue-id="1" isnavigator="{{true}}" bind:__l="__l"></searchbar><view class="content"><block wx:for="{{items}}" wx:for-item="item" wx:for-index="index" wx:key="index"><itemview vue-id="{{'2-'+index}}" item="{{item}}" isMisic="{{isMisic}}" itemurl="{{url+type+'&id='+item.id}}" bind:__l="__l"></itemview></block></view></view>

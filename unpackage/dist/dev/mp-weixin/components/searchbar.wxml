@@ -1,0 +1,1 @@
+<view><view class="searchbar"><block wx:if="{{isnavigator}}"><navigator class="search-navigator" url="/pages/search/search"></navigator></block><block wx:else><view class="search-input-group"><input class="search-input" placeholder="搜索"/></view></block></view></view>

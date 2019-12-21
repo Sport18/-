@@ -1,0 +1,1 @@
+<view><searchbar vue-id="1" bind:__l="__l"></searchbar></view>

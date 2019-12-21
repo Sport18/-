@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "豆瓣评分",
+  "usingComponents": {
+    "searchbar": "/components/searchbar",
+    "index-module": "/components/indexModule"
+  }
+}

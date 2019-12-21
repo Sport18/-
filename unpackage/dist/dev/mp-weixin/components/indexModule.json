@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "itemview": "/components/itemview"
+  },
+  "component": true
+}

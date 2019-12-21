@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/search/search",
+    "pages/list/list",
+    "pages/detail/detail",
+    "pages/bookdetail/bookdetail",
+    "pages/musicdetail/musicdetail",
+    "pages/comment/comment"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "豆瓣评分",
+    "navigationBarBackgroundColor": "#41be57",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "douban",
+  "compilerVersion": "2.4.6",
+  "usingComponents": {}
+}
